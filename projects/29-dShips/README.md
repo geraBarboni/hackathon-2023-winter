@@ -33,8 +33,8 @@ By providing anonymous employment opportunities, dShips contributes to economic 
 
 ### Project Demo
 
-[https://www.youtube.com/watch?v=221j6GkPvd4](https://www.youtube.com/watch?v=221j6GkPvd4)
-[https://d-s-polkadot.vercel.app/](https://d-s-polkadot.vercel.app/)
+- [https://www.youtube.com/watch?v=221j6GkPvd4](https://www.youtube.com/watch?v=221j6GkPvd4)
+- [https://d-s-polkadot.vercel.app/](https://d-s-polkadot.vercel.app/)
 
 ### Technical Architecture
 
